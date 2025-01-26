@@ -1,4 +1,4 @@
-# EEU44C08/EEP55M08 23/24
+# EEU44C08/EEP55M08 24/25
 
 4C8 is an introduction to the digital **signal processing**
 algorithms that are at the core of **image and video compression**.
@@ -21,4 +21,8 @@ Dublin](https://www.tcd.ie).
 ## 01 - Human Visual System
 
 * [pdf slides](/handouts/handout-01-human-visual-system.pdf)
+
+## 02 - Pixel Operations
+
+* [pdf slides](/handouts/handout-02-pixelops.pdf)
 
