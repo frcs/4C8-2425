@@ -26,3 +26,6 @@ Dublin](https://www.tcd.ie).
 
 * [pdf slides](/handouts/handout-02-pixelops.pdf)
 
+## 03 - Spatial Operations
+
+* [pdf slides](/handouts/handout-03-spatialops.pdf)
