@@ -29,3 +29,9 @@ Dublin](https://www.tcd.ie).
 ## 03 - Spatial Operations
 
 * [pdf slides](/handouts/handout-03-spatialops.pdf)
+
+## 04 - Transforms
+
+* [pdf slides (pt1)](/handouts/handout-04-xforms-pt1.pdf)
+* [pdf slides (pt2)](/handouts/handout-04-xforms-pt2.pdf)
+
