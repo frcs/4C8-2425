@@ -35,3 +35,8 @@ Dublin](https://www.tcd.ie).
 * [pdf slides (pt1)](/handouts/handout-04-xforms-pt1.pdf)
 * [pdf slides (pt2)](/handouts/handout-04-xforms-pt2.pdf)
 
+## 05 - Haar Transform
+
+* [pdf slides](/handouts/handout-05-haar.pdf)
+
+
