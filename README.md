@@ -39,4 +39,5 @@ Dublin](https://www.tcd.ie).
 
 * [pdf slides](/handouts/handout-05-haar.pdf)
 
-
+## Tutorials
+* [tutorial 1 (pdf)](/tutorials/tutorial-01.pdf)
